@@ -5,28 +5,20 @@
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-* [Tests](#tests)
 * [Questions](#questions)
 
 ## Description
-test
+Create a command-line application that dynamically generates a professional README.md file from a user's input using the inquirer package. The application will be invoked by the command: node index.js
 
 ## Installation
-test
+The application can be invoked by the command: node index.js
 
 ## Usage
-test
+After running the command "node index.js" continue to answer the questions as they appear. Your answer to these questions will be the text used to develope your readme.
 
-## Credits
-test
+## Screenshots
+https://watch.screencastify.com/v/hXt7cOHR61qQUMNwMaED
 
-## License
-MIT
-
-## Tests
-test
 
 ## Questions
 Email me or find me on GitHub!

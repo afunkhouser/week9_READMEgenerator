@@ -1,5 +1,5 @@
-![License](https://img.shields.io/static/v1?label=License&message=Apache&color=BLUE)
-# ok
+![License](https://img.shields.io/static/v1?label=License&message=MIT&color=BLUE)
+# README generator
 
 ## Table of Contents
 * [Description](#description)
@@ -11,24 +11,24 @@
 * [Questions](#questions)
 
 ## Description
-ok
+test
 
 ## Installation
-ok
+test
 
 ## Usage
-ok
+test
 
 ## Credits
-ok
+test
 
 ## License
-Apache
+MIT
 
 ## Tests
-ok
+test
 
 ## Questions
 Email me or find me on GitHub!
-GitHub Username: [ok](https://www.github.com/ok)
-Email: ok
+GitHub Username: [test](https://www.github.com/test)
+Email: test@gmail.com
